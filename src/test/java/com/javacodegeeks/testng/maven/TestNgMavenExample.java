@@ -1,5 +1,7 @@
 package com.javacodegeeks.testng.maven;
 
+/*comment*/
+
 import org.testng.annotations.Test;
 import org.testng.annotations.Test;
 
